@@ -1,0 +1,2 @@
+# SocketLogs
+微信调试、API调试和AJAX的调试的工具，能将日志通过WebSocket输出到Chrome浏览器的console中
