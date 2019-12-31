@@ -2,8 +2,10 @@
   "manifest_version": 2,
 
   "name": "SocketLogs",
+  "short_name": "SocketLogs",
   "description": "SocketLogs是FirePHP和ChromePHP的替代者，不仅能做ajax调试，还能做API调试。",
-  "version": "3.0.0",
+  "version": "1.0.0",
+  "version_name": "1.0.0",
   "permissions": [ "webRequest","webRequestBlocking", "tabs","notifications", "http://*/*", "https://*/*" ],
   "content_scripts": [ 
     {

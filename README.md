@@ -206,6 +206,6 @@ slog($this->queryStr,$this->_linkID);
 ## 依赖库
 * SocketLog https://github.com/luofei614/SocketLog
 
-[1]: https://github.com/xiaoyuit/SocketLogs/raw/master/screenshots/discuz.png
+[1]: https://github.com/xiaoyuit/SocketLogs/raw/master/screenshots/discuz_920x680.jpg
 [2]: https://github.com/xiaoyuit/SocketLogs/raw/master/screenshots/sql.png
 [3]: https://github.com/xiaoyuit/SocketLogs/raw/master/screenshots/onethink.png
